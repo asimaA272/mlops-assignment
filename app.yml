@@ -1,0 +1,4 @@
+app:
+  name: mlops-assignment
+  version: 1.0
+  port: 5000
